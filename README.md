@@ -6,9 +6,7 @@ The IQmodelo package consists of statistical software for task-based image quali
 
 ### Author
 Adam Wunderlich, PhD
-
 Center for Devices and Radiological Health
-
 U. S. Food and Drug Administration
 
 ### Acknowledgement
