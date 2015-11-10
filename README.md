@@ -1,5 +1,5 @@
 # IQmodelo
-Statistical Software for Image Quality Assessment with Model Observers
+Statistical Software for Image Quality Assessment with Model (and Human) Observers
 
 #### Summary
 The IQmodelo package consists of statistical software for task-based image quality assessments using mathematical model observers. All software is written for MATLAB. Please see the user manual for contents and further information. 
