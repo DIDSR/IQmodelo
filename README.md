@@ -2,7 +2,7 @@
 Statistical Software for Task-Based Image Quality Assessment with Model (or Human) Observers
 
 #### Summary
-This package includes functions for nonparametric ROC, LROC, and EROC analysis with either fixed or random observers.  In addition, it contains parametric methods for ROC performance analysis of linear model observers, including the channelized Hotelling observer.  All software is written for MATLAB. Please see the user manual for contents and further information. 
+This package includes functions for nonparametric ROC, LROC, EROC, and MAFC analysis with either fixed or random observers.  In addition, it contains parametric methods for ROC performance analysis of linear model observers, including the channelized Hotelling observer.  All software is written for MATLAB. Please see the user manual for contents and further information. 
 
 <hr>
 
